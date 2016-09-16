@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^resource\.warwick\.tech$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.resource\.warwick\.tech$
+RewriteRule ^/?$ "http\:\/\/warwick\.tech" [R=301,L]
+

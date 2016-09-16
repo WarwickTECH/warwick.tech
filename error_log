@@ -1,0 +1,19 @@
+[15-Dec-2015 16:28:58 America/New_York] PHP Parse error:  syntax error, unexpected '$heading' (T_VARIABLE), expecting function (T_FUNCTION) in /home/campiszw/public_html/test.php on line 13
+[15-Dec-2015 16:32:43 America/New_York] PHP Parse error:  syntax error, unexpected '$desc' (T_VARIABLE), expecting function (T_FUNCTION) in /home/campiszw/public_html/test.php on line 14
+[15-Dec-2015 16:33:22 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 16:34:02 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 16:34:03 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 16:34:20 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 16:38:06 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 16:38:08 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 16:39:17 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 30
+[15-Dec-2015 16:39:18 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 30
+[15-Dec-2015 16:41:16 America/New_York] PHP Catchable fatal error:  Object of class article could not be converted to string in /home/campiszw/public_html/test.php on line 30
+[15-Dec-2015 16:41:43 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/campiszw/public_html/test.php on line 30
+[15-Dec-2015 16:41:52 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 30
+[15-Dec-2015 16:44:40 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 30
+[15-Dec-2015 16:51:35 America/New_York] PHP Catchable fatal error:  Object of class article could not be converted to string in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 17:45:33 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[15-Dec-2015 17:45:36 America/New_York] PHP Fatal error:  Call to undefined function getDescription() in /home/campiszw/public_html/test.php on line 31
+[16-Dec-2015 08:33:25 America/New_York] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/campiszw/public_html/test.php on line 28
+[16-Dec-2015 08:33:53 America/New_York] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/campiszw/public_html/test.php on line 28
